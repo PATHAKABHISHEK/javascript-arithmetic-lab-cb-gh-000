@@ -22,3 +22,7 @@ function dec(n){
   return --n
 }
 
+function makeInt(n){
+  parsed_int = parseInt(n)
+  return parsed_int
+}
